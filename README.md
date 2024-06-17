@@ -1,12 +1,7 @@
 # 💫About Me :
-A Computing Science Undergraduate at Singapore Institute of Technology x University of Glasgow.
+A Final Year Computing Science Undergraduate at Singapore Institute of Technology x University of Glasgow.
 
 Previously Studied in NYP (Diploma in Information Technology)
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kei-yiang-lim-423b5913a) 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/h2100593)
-<!--- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TerixVoid/)--->
 
 ## 🎓Education
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/1cc08f82a116e21e582d64bd63157f1e)
