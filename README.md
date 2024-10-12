@@ -1,5 +1,5 @@
 # 💫About Me :
-A Final Year Computing Science Undergraduate at Singapore Institute of Technology x University of Glasgow.
+A Computing Science Graduate at Singapore Institute of Technology x University of Glasgow.
 
 Previously Studied in NYP (Diploma in Information Technology)
 
